@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 个人介绍
 
-You can use the [editor on GitHub](https://github.com/DeonChon/deon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是庄家菘，来自生93班，也是一名来自马来西亚的留学生。
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 课后学习到的知识
+ 1. Docker的安装及运行
+ 2. Linux的basic command
 
-- Bulleted
-- List
+### 启动Docker
+``` docker exec -it bioinfo_tsinghua bash ```
 
-1. Numbered
-2. List
+### 链接
+[Github](https://github.com/)
 
-**Bold** and _Italic_ and `Code` text
+[课堂上课教案安排](https://app.yinxiang.com/fx/48420550-8f51-49a6-b404-0cc7e810ab4c)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeonChon/deon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[生物信息清华云盘](https://cloud.tsinghua.edu.cn/d/4e16c340993d4703b741/)
